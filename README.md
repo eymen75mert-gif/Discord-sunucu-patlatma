@@ -1,4 +1,4 @@
-# 🚀 **AREX Discord Bot Kurulum & Başlangıç Rehberi**
+# 🚀 **kkk Discord Bot Kurulum & Başlangıç Rehberi**
 
 AREX botunu kendi sunucunda çalıştırmak için aşağıdaki adımları takip et:
 
